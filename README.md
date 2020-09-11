@@ -84,6 +84,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension.
 * [supercrawler](https://github.com/brendonboshell/supercrawler) - Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits. 
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Headless Chrome crawls with jQuery support
+* [Squidwarc](https://github.com/n0tan3rd/squidwarc) - High fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.
@@ -92,6 +93,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [pspider](https://github.com/hightman/pspider) - Parallel web crawler written in PHP.
 * [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 * [spatie/crawler](https://github.com/spatie/crawler) - An easy to use, powerful crawler implemented in PHP. Can execute Javascript.
+* [crawlzone/crawlzone](https://github.com/crawlzone/crawlzone) - Crawlzone is a fast asynchronous internet crawling framework for PHP.
 
 ## C++
 * [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++.
@@ -128,6 +130,8 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [creeper](https://github.com/wspl/creeper) - The Next Generation Crawler Framework (Go).
 * [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
 * [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
+* [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
+
 
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.
